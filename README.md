@@ -1,4 +1,4 @@
-# Bw App 35 1774962165
+# Chrome Beacon
 
 Monochrome light-themed ops dashboard with Express API and static UI.
 
