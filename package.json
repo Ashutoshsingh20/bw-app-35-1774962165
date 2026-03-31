@@ -1,7 +1,7 @@
 {
   "name": "bw-app-35-1774962165",
   "version": "1.0.0",
-  "description": "Chrome Beacon monochrome ops dashboard",
+  "description": "Velvet Signal monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"

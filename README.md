@@ -1,4 +1,4 @@
-# Chrome Beacon
+# Velvet Signal
 
 Monochrome light-themed ops dashboard with Express API and static UI.
 
